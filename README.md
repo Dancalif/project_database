@@ -1,9 +1,10 @@
-#Basic Automation Project
+#DatabaseProject
 
-Basic Java  Automation Project
+Database Automation Project
 
 *QA
 *Java
 *Maven
+*DB
 
 [Denis Umanets](http://sqasolution.com)
